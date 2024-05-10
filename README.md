@@ -1,4 +1,4 @@
-# desafio-2-DIO
+# desafio-BI-DIO
 
 - O primeiro passo do projeto foi criar as tabelas no banco de dados, decidi utilizar o MariaDB. 
 - Após isso, conectei minha base de dados com o PowerBI.
